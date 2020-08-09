@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Size</string>
+    <string name="btn_text_ok">Ok</string>
+    <string name="text_textview">Этот текст для перевода</string>
+    <string name="text_choose_lang">Выберите язык</string>
+    <string name="text_choose_margins">Выберите отступы</string>
+    <string-array name="languages">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string-array name="margins">
+        <item>Мелкие</item>
+        <item>Средние</item>
+        <item>Большие</item>
+    </string-array>
+
+</resources>
